@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasMartinscode
 - 👀 I’m interested in collaborate with my knowledge in business intelligence
-- 🌱 I’m currently learning statistical analysis
+- 🌱 I’m currently learning Data Science and Analytics
 - 📫 How to reach me: lucas8320@hotmail.com
 
 <!---
